@@ -1,1 +1,99 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T10:24:14.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" version="13.7.8" etag="1Qp_oduDXlHV6xxnUgjY" type="github"><diagram id="vilp62zk9X8BYbx7Whbz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-08T10:46:11.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="XegJNe5Prr9eYm92XndQ" version="13.7.8" type="github">
+  <diagram id="vilp62zk9X8BYbx7Whbz" name="Page-1">
+    <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-35" value="&lt;div&gt;&lt;font style=&quot;font-size: 36px&quot;&gt;Roadmap to Angular Testing Mastery&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" width="760" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-36" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="827" y="120" width="464" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-29" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="bsP4YLUhBeUWoqfiTBNK-36">
+          <mxGeometry y="10" width="464" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-1" value="R" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bsP4YLUhBeUWoqfiTBNK-36">
+          <mxGeometry x="91" y="61" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-3" value="C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bsP4YLUhBeUWoqfiTBNK-36">
+          <mxGeometry x="91" y="180" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-20" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="bsP4YLUhBeUWoqfiTBNK-36" source="bsP4YLUhBeUWoqfiTBNK-1" target="bsP4YLUhBeUWoqfiTBNK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-5" value="D" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bsP4YLUhBeUWoqfiTBNK-36">
+          <mxGeometry x="151" y="300" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-21" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="bsP4YLUhBeUWoqfiTBNK-36" source="bsP4YLUhBeUWoqfiTBNK-3" target="bsP4YLUhBeUWoqfiTBNK-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="101" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-8" value="P" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bsP4YLUhBeUWoqfiTBNK-36">
+          <mxGeometry x="151" y="420" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-22" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="bsP4YLUhBeUWoqfiTBNK-36" source="bsP4YLUhBeUWoqfiTBNK-3" target="bsP4YLUhBeUWoqfiTBNK-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="101" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-19" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="bsP4YLUhBeUWoqfiTBNK-36" source="bsP4YLUhBeUWoqfiTBNK-10" target="bsP4YLUhBeUWoqfiTBNK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-23" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="bsP4YLUhBeUWoqfiTBNK-36" source="bsP4YLUhBeUWoqfiTBNK-10" target="bsP4YLUhBeUWoqfiTBNK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-24" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="bsP4YLUhBeUWoqfiTBNK-36" source="bsP4YLUhBeUWoqfiTBNK-10" target="bsP4YLUhBeUWoqfiTBNK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-10" value="S" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bsP4YLUhBeUWoqfiTBNK-36">
+          <mxGeometry x="251" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-18" value="" style="endArrow=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="bsP4YLUhBeUWoqfiTBNK-36" source="bsP4YLUhBeUWoqfiTBNK-1" target="bsP4YLUhBeUWoqfiTBNK-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="211" y="120" as="sourcePoint" />
+            <mxPoint x="261" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-26" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;" edge="1" parent="bsP4YLUhBeUWoqfiTBNK-36" source="bsP4YLUhBeUWoqfiTBNK-25" target="bsP4YLUhBeUWoqfiTBNK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-25" value="BE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bsP4YLUhBeUWoqfiTBNK-36">
+          <mxGeometry x="371" y="240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-27" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="bsP4YLUhBeUWoqfiTBNK-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="331" y="500" as="sourcePoint" />
+            <mxPoint x="331" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_bug_report_48px-128.png;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="bsP4YLUhBeUWoqfiTBNK-36">
+          <mxGeometry x="181" y="154" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_bug_report_48px-128.png;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="bsP4YLUhBeUWoqfiTBNK-36">
+          <mxGeometry x="120" y="71" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_bug_report_48px-128.png;fillColor=#FF0000;strokeColor=#FF0000;" vertex="1" parent="bsP4YLUhBeUWoqfiTBNK-36">
+          <mxGeometry x="161" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-38" value="&lt;h1&gt;Lesson 3&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="720" width="720" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-39" value="&lt;h1&gt;Lesson 4&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="910" width="720" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-40" value="&lt;h1&gt;Lesson 2 - Where do bugs hide?&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Angular Application&lt;/b&gt;&lt;/p&gt;&lt;p&gt;- Routes - load components&lt;/p&gt;&lt;p&gt;- Components - load directives and pipes&lt;/p&gt;&lt;p&gt;- Directives&lt;/p&gt;&lt;p&gt;- Pipes&lt;/p&gt;&lt;p&gt;- Services - everything can inject services&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;2 Types of things to test:&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Logic &amp;lt;-&lt;/p&gt;&lt;p&gt;- Design&lt;/p&gt;&lt;p&gt;&lt;b&gt;Bugs hide&lt;/b&gt;&amp;nbsp;in the Boxes, Lines and the Big Circle.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Boxes&lt;/b&gt; are individual objects that we are testing (subject/object under test).&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lines &lt;/b&gt;represent the connectivity between the boxes, how do they interact with each other.&lt;/p&gt;&lt;p&gt;The &lt;b&gt;Big Circle &lt;/b&gt;represents the assembly of the app, how we configured everything.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="720" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-41" value="&lt;h1&gt;Lesson 1 -&amp;nbsp;Why Testing?&lt;/h1&gt;&lt;p&gt;#1 &lt;b&gt;Untested Code is a Gamble&lt;/b&gt; - when do bugs popup in your system?&lt;/p&gt;&lt;p&gt;#2 &lt;b&gt;Untested Code Gets &quot;Rotten&quot;&lt;/b&gt; - afraid to touch the code? 1 person in the company that can only change the code&lt;/p&gt;&lt;p&gt;#3 &lt;b&gt;The Breaking Point&lt;/b&gt; - fixing bugs takes longer then making all the tests we need&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="720" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
