@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-10T10:13:51.308Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="yNShANKoRd7ZWvllM2BU" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-13T14:46:59.863Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Nd2T6Z0We1APw8twsoJq" version="13.7.9" type="github">
   <diagram id="vilp62zk9X8BYbx7Whbz" name="Page-1">
-    <mxGraphModel dx="1278" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="599" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -105,7 +105,7 @@
         <mxCell id="bsP4YLUhBeUWoqfiTBNK-38" value="&lt;h1&gt;Lesson 3 - Which tests should we write&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Automated Tests&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Unit Test and&amp;nbsp;&lt;span&gt;Integration Test are Ambiguous Terms&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;The 3 Test Dimensions (more specific terms)&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;SCOPE&lt;br&gt;Micro - we test just 1 button&lt;br&gt;Macro - we test like several buttons together&lt;/p&gt;&lt;p&gt;BOUNDARIES&lt;br&gt;Isolated - test only 1 box&lt;br&gt;Integrated - test many boxes together&lt;/p&gt;&lt;p&gt;SUBJECT&lt;br&gt;Class&lt;br&gt;DOM&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="720" width="720" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="bsP4YLUhBeUWoqfiTBNK-39" value="&lt;h1&gt;Lesson 4&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="bsP4YLUhBeUWoqfiTBNK-39" value="&lt;h1&gt;Lesson 4 -&amp;nbsp;Where should we start from&lt;/h1&gt;&lt;p&gt;Layers&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="1160" width="720" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bsP4YLUhBeUWoqfiTBNK-40" value="&lt;h1&gt;Lesson 2 - Where do bugs hide?&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Angular Application&lt;/b&gt;&lt;/p&gt;&lt;p&gt;- Routes - load components&lt;/p&gt;&lt;p&gt;- Components - load directives and pipes&lt;/p&gt;&lt;p&gt;- Directives&lt;/p&gt;&lt;p&gt;- Pipes&lt;/p&gt;&lt;p&gt;- Services - everything can inject services&lt;/p&gt;&lt;p&gt;&lt;span&gt;&lt;b&gt;2 Types of things to test:&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Logic &amp;lt;-&lt;/p&gt;&lt;p&gt;- Design&lt;/p&gt;&lt;p&gt;&lt;b&gt;Bugs hide&lt;/b&gt;&amp;nbsp;in the Boxes, Lines and the Big Circle.&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Boxes&lt;/b&gt; are individual objects that we are testing (subject/object under test).&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Lines &lt;/b&gt;represent the connectivity between the boxes, how do they interact with each other.&lt;/p&gt;&lt;p&gt;The &lt;b&gt;Big Circle &lt;/b&gt;represents the assembly of the app, how we configured everything.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -113,6 +113,63 @@
         </mxCell>
         <mxCell id="bsP4YLUhBeUWoqfiTBNK-41" value="&lt;h1&gt;Lesson 1 -&amp;nbsp;Why Testing?&lt;/h1&gt;&lt;p&gt;#1 &lt;b&gt;Untested Code is a Gamble&lt;/b&gt; - when do bugs popup in your system?&lt;/p&gt;&lt;p&gt;#2 &lt;b&gt;Untested Code Gets &quot;Rotten&quot;&lt;/b&gt; - afraid to touch the code? 1 person in the company that can only change the code&lt;/p&gt;&lt;p&gt;#3 &lt;b&gt;The Breaking Point&lt;/b&gt; - fixing bugs takes longer then making all the tests we need&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="120" width="720" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-13" value="Smoke Testing (e2e)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1199" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-14" value="Remote Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1169" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dxAt-XKARZ6KwKlC3QCI-1" target="dxAt-XKARZ6KwKlC3QCI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dxAt-XKARZ6KwKlC3QCI-1" target="dxAt-XKARZ6KwKlC3QCI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-1" value="Tools + Syntax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1409" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dxAt-XKARZ6KwKlC3QCI-4" target="dxAt-XKARZ6KwKlC3QCI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-4" value="Structure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1379" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dxAt-XKARZ6KwKlC3QCI-5" target="dxAt-XKARZ6KwKlC3QCI-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-5" value="Class Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1349" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dxAt-XKARZ6KwKlC3QCI-6" target="dxAt-XKARZ6KwKlC3QCI-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-6" value="Habit (TDD)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1319" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-8" value="Isolation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1289" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-9" value="Route Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1259" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-7" value="DOM Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="1229" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-18" value="Jasmine" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1409" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-20" value="Karma" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1439" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-24" value="Given, When, Then" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1379" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-31" value="TDD Guide PDF" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1320" width="120" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="dxAt-XKARZ6KwKlC3QCI-33" value="+ Components" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="1351" width="120" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
